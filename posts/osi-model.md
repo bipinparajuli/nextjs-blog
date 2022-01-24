@@ -110,6 +110,8 @@ Let's start understanding the OSI model.
 
 
 
+Thank you for reading
+
 
 
 
