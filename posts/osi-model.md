@@ -1,3 +1,9 @@
+---
+title: "OSI Model"
+date: "2022-01-24"
+---
+
+
 # What is OSI model?
 
 Open System Interconnection model or OSI is a seven-layer model used to describe networking connections. OSI models defines how information is transmitted from source to its destination through a physical medium and how it interacts with the application. it describes the functions of a networking system.
