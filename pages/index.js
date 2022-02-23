@@ -23,7 +23,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>This is Bipin Parajuli.I'm a student and currently working at QWR.</p>
+        <p>This is Bipin Parajuli.I'm currently working at QWR.</p>
         <p>
           I write code to solve problem, some of technologies i use are HTMl, CSS, JavaScript, Nodejs, Mongodb and AWS. I also have hands on experience working
           with digital technogies like AR/VR, Three.js and Babylon.js on my work. I have used dotnet, Java, Php and Mobile development on my college.  
