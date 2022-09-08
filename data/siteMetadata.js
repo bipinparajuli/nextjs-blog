@@ -1,21 +1,21 @@
 const siteMetadata = {
   title: '',
   author: 'Bipin Parajuli',
-  headerTitle: 'Bipin Parajuli',
+  headerTitle: 'Bipin',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
-  siteLogo: '/static/images/logo.png',
+  siteLogo: '/static/images/logo_t.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'bipinprjl@gmail.com',
-  github: 'https://github.com',
+  github: 'https://github.com/bipinparajuli',
   twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
+  facebook: 'https://www.facebook.com/bipinprjl/',
   youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  linkedin: 'https://www.linkedin.com/in/bipinprjl/',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
