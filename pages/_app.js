@@ -19,13 +19,14 @@ const isSocket = process.env.SOCKET
 export default function App({ Component, pageProps }) {
   return (
     <ThemeProvider attribute="class" defaultTheme={siteMetadata.theme}>
-       {/* Global Site Tag (gtag.js) - Google Analytics */}
+      {/* Global Site Tag (gtag.js) - Google Analytics */}
       <Script
         strategy="lazyOnload"
         src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}`}
+        id="g-script-id"
       />
 
-      <Script strategy="lazyOnload">
+      <Script strategy="lazyOnload" id="g-script">
         {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
@@ -40,7 +41,6 @@ export default function App({ Component, pageProps }) {
       </Head>
       {isDevelopment && isSocket && <ClientReload />}
       <Analytics />
-    
 
       <LayoutWrapper>
         <Component {...pageProps} />
