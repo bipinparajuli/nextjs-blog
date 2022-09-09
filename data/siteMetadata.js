@@ -2,7 +2,8 @@ const siteMetadata = {
   title: '',
   author: 'Bipin Parajuli',
   headerTitle: 'Bipin',
-  description: 'A blog created with Next.js and Tailwind.css',
+  description:
+    'This is a blog for software engineers. This blogs goes into the details of database, server and client side. You can use this blog to learn or refresh your knowledge.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
