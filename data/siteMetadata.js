@@ -10,10 +10,10 @@ const siteMetadata = {
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/logo_t.png',
   image: '/static/images/avatar.png',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/banner.jpg',
   email: 'bipinprjl@gmail.com',
   github: 'https://github.com/bipinparajuli',
-  twitter: 'https://twitter.com/Twitter',
+  // twitter: 'https://twitter.com/Twitter',
   facebook: 'https://www.facebook.com/bipinprjl/',
   youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com/in/bipinprjl/',
@@ -25,7 +25,7 @@ const siteMetadata = {
     plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: false, // true or false
     umamiWebsiteId: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
-    googleAnalyticsId: '', // e.g. UA-000000-2 or G-XXXXXXX
+    googleAnalyticsId: process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS, // e.g. UA-000000-2 or G-XXXXXXX
     posthogAnalyticsId: '', // posthog.init e.g. phc_5yXvArzvRdqtZIsHkEm3Fkkhm3d0bEYUXCaFISzqPSQ
   },
   newsletter: {
