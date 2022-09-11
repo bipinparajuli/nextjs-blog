@@ -35,7 +35,7 @@ Think of two different scenarios where you want to make a request to the same se
 
 In the second case, the request to http://example1.com from http://example2.com fails because they are of different origins.
 
-![](https://lh6.googleusercontent.com/nbqbNB1JbNj64Ma2UALOK-mVCkOPC8s6J6hWD2zLm-WTiVGANKDznmzuj1sS2rpgNj5Ptc3Oe3chcOBLPw__smSuayJkyWYmzZyI_ZBgubMplraFhxraQ56NQs6eZZCT7BfC_DKKlkwLM71C0Iyu7MgRMS08gDrJTACzGjuKcOyBVUkZmD7zsYKmRA)
+!['image of example cors'](/static/images/example_cors.jpeg)
 
 This is a security mechanism handled by the browser. CORS allows us to disable this mechanism and allow us to request different origins.
 
