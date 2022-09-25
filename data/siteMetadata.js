@@ -6,7 +6,7 @@ const siteMetadata = {
     'This is a blog for software engineers. This blogs goes into the details of database, server and client side. You can use this blog to learn or refresh your knowledge.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://bipinparajuli.com.np/',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/logo_t.png',
   image: '/static/images/avatar.png',
@@ -22,7 +22,7 @@ const siteMetadata = {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
     // supports plausible, simpleAnalytics, umami or googleAnalytics
-    plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
+    plausibleDataDomain: 'https://bipinparajuli.com.np', // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: false, // true or false
     umamiWebsiteId: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
     googleAnalyticsId: process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS, // e.g. UA-000000-2 or G-XXXXXXX

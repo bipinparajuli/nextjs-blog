@@ -163,4 +163,4 @@ Sometimes we want our API to access by the public in this case we could use the 
 
 Here comes the end of this post. You have learned about the Cors and how to enable them in Nest to make requests from different origins by using CORS.
 
-The full project source code used in this article is available in [github](<“[https://github.com/bipinparajuli/nest-cors](https://github.com/bipinparajuli/nest-cors)”>). Feel free to play around.
+The full project source code used in this article is available in [github](https://github.com/bipinparajuli/nest-cors). Feel free to play around.
