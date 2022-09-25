@@ -6,7 +6,7 @@ const siteMetadata = {
     'This is a blog for software engineers. This blogs goes into the details of database, server and client side. You can use this blog to learn or refresh your knowledge.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://bipinparajuli.com.np/',
+  siteUrl: 'https://bipinparajuli.com.np',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/logo_t.png',
   image: '/static/images/avatar.png',
