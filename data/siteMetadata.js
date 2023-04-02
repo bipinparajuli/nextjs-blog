@@ -7,7 +7,7 @@ const siteMetadata = {
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://bipinparajuli.com.np',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteRepo: 'https://github.com/bipinparajuli/bipin-blog',
   siteLogo: '/static/images/logo_t.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/banner.jpg',
