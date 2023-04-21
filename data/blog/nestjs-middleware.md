@@ -1,5 +1,5 @@
 ---
-title: How NestJS Middleware Works: A complete guide
+title: 'How NestJS Middleware Works: A complete guide'
 date: '2023-04-21'
 tags: ['Software Development', 'Node', 'Backend']
 draft: false
