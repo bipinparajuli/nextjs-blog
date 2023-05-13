@@ -4,7 +4,7 @@ date: '2023-05-13'
 tags: ['javascript', 'jest', 'tesing']
 draft: false
 summary:
-images: [/static/images/jest-rest-mock-min.png]
+images: [/static/images/jest-rest-mock.jpg]
 ---
 
 # How to reset mocks in Jest with practical code examples
@@ -13,7 +13,7 @@ images: [/static/images/jest-rest-mock-min.png]
 
 However, sometimes we need to reset the mock functions between tests. In this blog post, we'll explore how to reset mocks in Jest and provide practical code examples.
 
-<img src="/static/images/jest-rest-mock-min.png" />
+<img src="/static/images/jest-rest-mock.jpg" />
 
 ## Table of contents
 
