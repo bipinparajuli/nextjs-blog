@@ -1,12 +1,17 @@
 ---
 name: Bipin Parajuli
 avatar: /static/images/image.jpeg
-occupation: Associate Software Engineer
-company: Web Point Solution
+occupation: Software Engineer
 email: bipinprjl@gmail.com
 twitter: https://twitter.com/bipinprjl
 linkedin: https://www.linkedin.com/in/bipinprjl/
 github: https://github.com/bipinparajuli
 ---
 
-Hi, I am Bipin Parajuli. I am Undergraduate Computer Science Student at Xavier International College currently working as an Associate Software Engineer at Web Point Solution.
+### About Me
+
+Hi, I’m **Bipin Parajuli**—a passionate **developer**. I love building impactful web applications and sharing tech knowledge with others.
+
+This blog is my space to share insights on **programming**, **tech tips**, and my journey as a **Developer**.
+
+Thanks for stopping by—happy reading!
